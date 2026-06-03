@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+preview.png
+preview.html
+/tmp/
+
+# Safety: if you put your real key in config.py, do NOT commit it.
+# Better: keep the key in an environment variable and leave config.py blank.
